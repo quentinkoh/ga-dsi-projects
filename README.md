@@ -1,5 +1,4 @@
-# ga-dsi-projects
-General Assembly (Data Science Immersive) Projects 1 to 4
+# General Assembly (Data Science Immersive) Projects 1 to 4
 
 **Project 1: Pokemon game programming and analysis**
 Demonstrates proficiency with:

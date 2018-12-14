@@ -1,6 +1,6 @@
 # General Assembly (Data Science Immersive) Projects 1 to 4
 
-**Project 1: Pokemon game programming and analysis**
+**Project 1: Pokemon game programming and analysis** <br>
 Demonstrates proficiency with:
 
 - Command of basic Python data structures
